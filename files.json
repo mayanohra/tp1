@@ -1,0 +1,28 @@
+{
+	"nom_departement": "Informatique",
+	"type_ departement": 2,
+	"taux_horaire_min": "31.45 $",
+	"taux_ horaire_max": "73.00 $",
+	"employes": [{
+			"nom": "Zied Zaier",
+			"nombre_droit_anciennete": 4,
+			"nombre_ diplomes": 0,
+			"charge_travail": 465,
+			"date_revision_salaire": "12-12-2012"
+		},
+		{
+			"nom": "Jean Dupon",
+			"nombre_droit_anciennete": 0,
+			"nombre_diplomes": 1,
+			"charge_travail": 1082,
+			"date_revision_salaire": "12-12-2012"
+		},
+		{
+			"nom": "Rose Pascal",
+			"nombre_droit_anciennete": 8,
+			"nombre_diplomes": 3,
+			"charge_travail": 3333,
+			"date_revision_salaire": "2013-06-20"
+		}
+	]
+}
